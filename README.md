@@ -8,7 +8,7 @@ Test the `markdown` .
 
 This is an **image :**
 
-![Image from burp tool](.gitbook/assets/image%20%281%29.png)
+![Image from burp tool](.gitbook/assets/image%20%281%29%20%281%29.png)
 
 Another _test_ 📙 :
 
